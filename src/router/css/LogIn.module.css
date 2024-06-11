@@ -1,0 +1,10 @@
+.loginBackground {
+  background-color: blue;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  min-width: 100vw; /* Ajusta la altura según tus necesidades */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
